@@ -32,5 +32,5 @@ megaline_users.csv | Información general de usuarios (ID, ciudad, plan, etc.)
 
 CONTACTO
 
-[LinkedIn](https://www.linkedin.com/in/ramon-wh-bravo-19a352290/)
-- ✉️ [e.bravo.hp@outlook.com](mailto\:e.bravo.hp@outlook.com)
+https://www.linkedin.com/in/ramon-wh-bravo-19a352290/
+e.bravo.hp@outlook.com
